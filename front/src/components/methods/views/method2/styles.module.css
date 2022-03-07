@@ -1,0 +1,18 @@
+.result {
+    font-size: 20px;
+    margin-top: 38px;
+}
+
+.sentences {
+    color: #3A5163;
+    margin-top: 32px;
+}
+
+.sentences li {
+    list-style: none;
+    font-size: 20px;
+}
+
+.sentences li + li {
+    margin-top: 18px;
+}

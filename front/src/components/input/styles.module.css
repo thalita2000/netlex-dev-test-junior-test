@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container label {
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.container input {
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.container button {
+    margin-top: 24px;
+    width: 120px;
+    cursor: pointer;
+}
